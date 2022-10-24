@@ -2,6 +2,8 @@
 
 A simple html & CSS survey form. I have developed this website as a part of [Free Code Camp](https://www.freecodecamp.org/) web design responsive certification project.
 
+You can take a look at this project in action clicking the link here : [Survey Form](https://abiyeljames.github.io/Free-Code-Camp-Survey-Form/)
+
 ## Objective
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/VPaoNP.
 
